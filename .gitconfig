@@ -1,0 +1,11 @@
+[user]
+	email = yuiop1955@mail.ru
+	name = rs
+[core]
+	editor = micro
+	quotepath = false
+	commitGraph = true
+[gc]
+	writeCommitGraph = true
+[alias]
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
